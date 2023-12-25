@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+.b_color{
+	background:rgba(255,0,0,0.2);
+	color:#ffffff;
+}
+.b_img{
+	background-image:url(https://media.istockphoto.com/id/1436198381/photo/png-european-robin-isolated-white-background.jpg?s=2048x2048&w=is&k=20&c=xBwjG54jAfXukOfhwPoJ0rJl7REJTUKedFGR3AIuCa0=);
+	background-repeat:no-repeat;
+	background-size:300px;
+	background-position:center bottom;
+	font-family: 'Sevillana', cursive;
+}
+.c_img{
+	background-image:url(../images/1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.b_grad{
+	background: linear-gradient(90deg, rgba(36,0,4,0.5) 0%, rgba(118,121,9,0.5) 35%, rgba(21,0,255,0.5) 100%);
+}
